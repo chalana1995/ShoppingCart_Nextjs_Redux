@@ -5,7 +5,7 @@ import React from "react";
 
 export default function Product({ product }) {
   return (
-    <div className="rounded-lg mr-3  bg-white dark:bg-slate-900 overflow-hidden border shadow">
+    <div className="rounded-lg mr-3  bg-white dark:bg-slate-900 overflow-hidden border shadowe">
       <Link href="#">
         <Image
           src={product.image}
